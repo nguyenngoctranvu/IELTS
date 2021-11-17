@@ -2,6 +2,8 @@ G1: 1990
 G2: 2010
 O: Lots of changes. Power generators.
 
+![Screenshot](Screen Shot 2021-11-17 at 15.00.10.png)
+
 The maps illustrate the changes of the same area in Someland over a 20 year period.
 
 Overall, we can see a lot of developments in this area over the given time show. We can see a lot of structures have been repurposed over the 20 years to generate power and electricity.
