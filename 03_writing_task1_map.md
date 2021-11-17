@@ -1,8 +1,10 @@
 G1: 1990
+
 G2: 2010
+
 O: Lots of changes. Power generators.
 
-![Screenshot](Screen Shot 2021-11-17 at 15.00.10.png)
+![Screenshot](map1.png)
 
 The maps illustrate the changes of the same area in Someland over a 20 year period.
 
